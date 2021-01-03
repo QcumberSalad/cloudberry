@@ -2,8 +2,9 @@
 title = "Fudge"
 description = "My recipe"
 author = "Deanne Murphy"
-date = "2021-01-03
+date = "2021-01-03"
 tags = ["cookies", "bars"]
+categories = ["cake"]
 [[images]]
   src = "img/2019/03/pic02.jpg"
   alt = "Desert Scene"

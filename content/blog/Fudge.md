@@ -2,8 +2,9 @@
 title = "Fudge"
 description = "My recipe"
 author = "Deanne Murphy"
-date = "2021-01-03
+date = "2021-01-03"
 tags = ["cookies", "bars"]
+categories = ["fudge"]
 [[images]]
   src = "img/2019/03/pic02.jpg"
   alt = "Desert Scene"
@@ -28,3 +29,20 @@ Add vanilla and stir vigourously to combine - beware of splashes.
 Take fudge off the heat and stir till cooled slightly. 
 Pour into a greased 23 x 23 cm lammington tin and allow to cool
 Cut into squares and serve.
+
+<!-- Add mermaid flowchart
+https://mermaid-js.github.io/mermaid/#/flowchart?id=graph 
+-->
+
+{{<mermaid>}}
+flowchart TB;
+  subgraph one
+  A["Flour"] -- slowly --- Z{{"Mix together"}};
+  B["Rice"] -- throw in --- Z;
+  C["Egg"] -- whisk --- Z;
+  end
+  subgraph two
+  S["Olive oil"] --- N{{"Bake"}};
+  end
+  one --add together --- two;
+{{</mermaid>}}

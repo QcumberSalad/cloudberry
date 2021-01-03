@@ -2,8 +2,9 @@
 title = "Kiev Cake"
 description = "A ukrainian cake with Hazelnut Meringue, Cherries and Russian buttercream"
 author = "Adapted from Let the Baking Begin!"
-date = "2021-01-03
+date = "2021-01-03"
 tags = ["Cakes"]
+categories = ["cake"]
 [[images]]
   src = "img/2019/03/pic02.jpg"
   alt = "Desert Scene"

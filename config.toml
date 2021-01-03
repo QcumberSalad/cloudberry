@@ -1,15 +1,15 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://qcumbersalad.github.io/cloudberry/"
+baseurl                 = "https://cloudberry.cyou"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "Cloudberry"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = []
-publishDir = "docs"
+publishDir              = "docs"
 
 [markup.goldmark.renderer]
   unsafe                = true
@@ -18,9 +18,10 @@ publishDir = "docs"
   home                  = ["html", "json", "rss"]
 
 [params]
+  mermaid               = true
   enableCDN             = false
   cssFiles              = ["default"]
-  jsFiles               = ["default"]
+  jsFiles               = ["default", "js/mermaid.min.js", "js/mermaid_config.js"]
   highlightjs           = true
   highlightjsTheme      = ""
   highlightjsLang       = []
@@ -41,19 +42,19 @@ publishDir = "docs"
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Cloudberry"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
-    languageMenu        = true
+    languageMenu        = false
 
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "Cloudberry"
+    paragraph             = "A repository for tested and well curated recipes."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
-    alwaysOnHomepage      = false
+    alwaysOnHomepage      = true
 
     [params.intro.pic]
       src                 = "img/main/logo.jpg"
