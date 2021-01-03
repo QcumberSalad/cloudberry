@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Future Imperfect Slim</title>
-    <link>https://qcumbersalad.github.io/cloudberry/categories/</link>
-    <description>Recent content in Categories on Hugo Future Imperfect Slim</description>
+    <title>Categories on Cloudberry</title>
+    <link>https://cloudberry.cyou/categories/</link>
+    <description>Recent content in Categories on Cloudberry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://qcumbersalad.github.io/cloudberry/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cloudberry.cyou/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cake</title>
+      <link>https://cloudberry.cyou/categories/cake/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudberry.cyou/categories/cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fudge</title>
+      <link>https://cloudberry.cyou/categories/fudge/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudberry.cyou/categories/fudge/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

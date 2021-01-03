@@ -33,8 +33,8 @@ publishDir              = "docs"
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
-    author              = "HTML5UP and Hugo"
+    description         = "Cloudberry - a repository of tested and well curated recipes."
+    author              = "Deanne Murphy"
     favicon             = false
     svg                 = true
     faviconVersion      = "1"
@@ -73,7 +73,7 @@ publishDir              = "docs"
     socialFooter        = true
 
   [params.staticman]
-    enabled             = true
+    enabled             = false
     api                 = ""  # No Trailing Slash
     gitProvider         = ""
     username            = ""

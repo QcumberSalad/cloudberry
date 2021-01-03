@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Future Imperfect Slim</title>
-    <link>https://qcumbersalad.github.io/cloudberry/ja/</link>
-    <description>Recent content on Hugo Future Imperfect Slim</description>
+    <title>Cloudberry</title>
+    <link>https://cloudberry.cyou/ja/</link>
+    <description>Recent content on Cloudberry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://qcumbersalad.github.io/cloudberry/ja/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    
+	<atom:link href="https://cloudberry.cyou/ja/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

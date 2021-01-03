@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Future Imperfect Slim</title>
-    <link>https://qcumbersalad.github.io/cloudberry/</link>
-    <description>Recent content on Hugo Future Imperfect Slim</description>
+    <title>Cloudberry</title>
+    <link>https://cloudberry.cyou/</link>
+    <description>Recent content on Cloudberry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://qcumbersalad.github.io/cloudberry/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cloudberry.cyou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fudge</title>
+      <link>https://cloudberry.cyou/blog/fudge/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudberry.cyou/blog/fudge/</guid>
+      <description>Fudge Adapted from the Royal Hostess Ingredients 150g flour 60ml cold water 350g sugar 385g tin condensed milk 5 ml vanilla
+Combine all ingredients in a large copper-bottomed pot and stir on medium-low heat until dissolved. Boil mixture until the soft ball stage and the mixture has a deeper colour and has thickened conspicuously. This may take ~ 20 minutes. Add vanilla and stir vigourously to combine - beware of splashes.</description>
+    </item>
+    
+    <item>
+      <title>Fudge</title>
+      <link>https://cloudberry.cyou/blog/yellow-cake/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudberry.cyou/blog/yellow-cake/</guid>
+      <description>One bowl yellow cake recipe by Melissa Clark of New York Times Ingredients 3 eggs, room temperature or warmed in a bowl of water for 15 minutes 60g butter, melted and cooled 1 cup sugar 120ml oil 240 ml buttermilk or thinned yoghurt 2 tsp vanilla 1/2 tsp salt 1/2 tsp baking soda 2 tsp baking powder 255g flour
+Preheat oven to 180 celsius Whisk eggs furiously and until frothy ~ 1 minute Whisk in butter, then oil Then buttermilk Add vanilla Whisk in salt, baking soda and baking powder Whisk in flour - whisk vigourously for 30 seconds to remove lumps</description>
+    </item>
+    
+    <item>
+      <title>Kiev Cake</title>
+      <link>https://cloudberry.cyou/blog/kiev-cake/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudberry.cyou/blog/kiev-cake/</guid>
+      <description>This cake is a mission to make, with many steps, but, after making it, everyone agreed it was worth the effort. Th eoriginal was a bit sweet for me, so next time I want to use some adjustments to get the sugar content down a notch.
+Kiev cake Adapted from Let the Baking Begin Ingredients Kiev cake 1 recipe Yellow cake 1 recipe Russian buttercream 0.5 recipe meringue cookies 1 cup chopped roasted hazelnuts 1/2 cup roasted, canned or frozen cherries</description>
+    </item>
+    
+    <item>
+      <title>Cloudberry</title>
+      <link>https://cloudberry.cyou/about/about/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cloudberry.cyou/about/about/</guid>
+      <description>The Cloudberry A new and unique expierence</description>
+    </item>
+    
   </channel>
 </rss>
